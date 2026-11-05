@@ -5,5 +5,7 @@
 [Uu]ser[Ss]ettings/
 [Bb]uild/
 [Bb]uilds/
+[Mm]emoryCaptures/
 .vs/
-.idea/
+*.csproj
+*.sln
